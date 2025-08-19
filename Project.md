@@ -1,3 +1,8 @@
+---
+title: "Projects"
+permalink: /projects/
+---
+
 ## Project 1: Uber Ride Analytics Dashboard
 
 **Description:**  
