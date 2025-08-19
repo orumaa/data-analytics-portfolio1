@@ -2,6 +2,11 @@
 
 # 🚖 Uber Ride Analytics Dashboard – Project Story
 
+## 📸 Dashboard Preview
+
+![Dashboard Overview](assets/images/dashboard.png)
+
+
 ## 🎯 Objective
 This project aimed to design an **interactive dashboard** that provides insights into customer ride patterns, vehicle usage, booking behaviours, and payment preferences.  
 
