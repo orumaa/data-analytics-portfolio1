@@ -1,7 +1,7 @@
 # Site settings
 title: "Oruma's Data Analytics Portfolio"
 description: "Showcasing my analytics projects, dashboards, and Power BI work"
-theme: Cayman 
+theme: jekyll-theme-cayman
 
 # Optional social links
 author:
