@@ -1,7 +1,7 @@
 # Site settings
 title: "Oruma's Data Analytics Portfolio"
 description: "Showcasing my analytics projects, dashboards, and Power BI work"
-theme: minima
+theme: Cayman 
 
 # Optional social links
 author:
@@ -16,7 +16,7 @@ header_pages:
   - about.md
 
 # Minima theme settings
-minima:
+Cayman :
   social_links:
     github: https://github.com/orumaa
     LinkedIn: https://www.linkedin.com/in/shuaibu-oruma-529192138/
