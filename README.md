@@ -1,4 +1,3 @@
-# Oruma's Portfolio
 
 # 🚖 Uber Ride Analytics Dashboard – Project Story
 
