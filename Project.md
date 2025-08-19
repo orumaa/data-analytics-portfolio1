@@ -33,7 +33,7 @@ An **interactive Power BI dashboard** providing insights into Uber ride patterns
 - Excel / Power Query – data cleaning & preparation
 
 **Power BI File / Download:**  
-[Download Power BI File](https://github.com/your-username/your-repo/blob/main/UberRideAnalytics/UberRideAnalytics.pbix)  
+[Download Power BI File](https://github.com/orumaa/data-analytics-portfolio1/blob/main/Uber%20Ride%20Analytics%20Dashboard.pbix)  
 
 **Screenshot:**  
 ![Dashboard Screenshot](link-to-dashboard-image.png)
