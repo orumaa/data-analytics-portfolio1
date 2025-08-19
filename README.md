@@ -4,7 +4,7 @@
 
 ## 📸 Dashboard Preview
 
-![Dashboard Overview](assets/images/dashboard.png)
+![Dashboard Overview](assets/images/Dashboard.png)
 
 
 ## 🎯 Objective
