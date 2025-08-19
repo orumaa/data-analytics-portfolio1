@@ -1,7 +1,6 @@
 # About Me  
 <img src="assets/images/Profile.jpeg" alt="Oruma Shuaibu Ojochenemi" width="200" style="border-radius: 100%;">
 
-
 Hi, I'm **Oruma Shuaibu Ojochenemi** 👋 
 
 I’m a data analytics enthusiast with experience in **Power BI, data visualisation, and dashboard design**.  
