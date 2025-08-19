@@ -1,5 +1,5 @@
 # About Me  
-<img src="assets/images/Profile.jpeg" alt="Oruma Shuaibu Ojochenemi" width="200" style="border-radius: 50%;">
+<img src="assets/images/Profile.jpeg" alt="Oruma Shuaibu Ojochenemi" width="200" style="border-radius: 100%;">
 
 
 Hi, I'm **Oruma Shuaibu Ojochenemi** 👋 
