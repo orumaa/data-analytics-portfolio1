@@ -36,7 +36,7 @@ An **interactive Power BI dashboard** providing insights into Uber ride patterns
 [Download Power BI File](https://github.com/orumaa/data-analytics-portfolio1/blob/main/Uber%20Ride%20Analytics%20Dashboard.pbix)  
 
 **Screenshot:**  
-![Dashboard Screenshot](link-to-dashboard-image.png)
+![Dashboard Overview](assets/images/Dashboard.png)
 
 **Author:** Oruma Shuaibu Ojochenemi  
 🔗 [GitHub Portfolio](https://github.com/orumaa)
