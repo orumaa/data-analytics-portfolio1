@@ -24,8 +24,6 @@ Here are some of the tools and skills I use:
 An interactive Power BI dashboard providing insights into Uber ride patterns, vehicle usage, booking behaviours, and payment preferences. This dashboard helps business stakeholders understand operational performance, customer habits, and opportunities to optimise the ride-hailing service..  
 [projects page](Project.md)
 
-<a href="/https://github.com/orumaa/data-analytics-portfolio1/blob/main/Project.md/" style="text-decoration:none; background-color:#0366d6; color:white; padding:10px 20px; border-radius:5px;">Projects</a>
-<a href="/about.md/" style="text-decoration:none; background-color:#28a745; color:white; padding:10px 20px; border-radius:5px;">About Me</a>
 
 ---
 
