@@ -28,7 +28,7 @@ When I’m not analysing data, I enjoy:
 
 ## 🔗 Connect with Me  
 - GitHub: [github.com/orumaa](https://github.com/orumaa)  
-- LinkedIn: [linkedin.com/in/your-linkedin-username](https://www.linkedin.com/in/shuaibu-oruma-529192138/)  
+- LinkedIn: [linkedin.com/in/Shuaib Oruma](https://www.linkedin.com/in/shuaibu-oruma-529192138/)  
 - Email: orumashuaib@gmail.com
 - Instagram: chenemi__
 - Medium: https://medium.com/@orumashuaib
