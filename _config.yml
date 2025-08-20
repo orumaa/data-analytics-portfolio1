@@ -1,22 +1,22 @@
-# Site settings
 title: "Oruma's Data Analytics Portfolio"
 description: "Showcasing my analytics projects, dashboards, and Power BI work"
-theme: jekyll-theme-primer
+theme: minima
 
-# Optional social links
+# Author info
 author:
-  name: Oruma Shuaibu Ojochenemi
-  email: orumashuaib@gmail.com
-  github: orumaa
+  name: "Oruma Shuaibu Ojochenemi"
+  email: "orumashuaib@gmail.com"
+  github: "orumaa"
+  linkedin: "https://www.linkedin.com/in/shuaibu-oruma-529192138/"
 
-# Navigation (if you add more pages later)
+  # Navigation (header menu)
 header_pages:
   - index.md
   - projects.md
   - about.md
 
 # Minima theme settings
-primer :
+Minima :
   social_links:
     github: https://github.com/orumaa
     LinkedIn: https://www.linkedin.com/in/shuaibu-oruma-529192138/
