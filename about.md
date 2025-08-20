@@ -1,10 +1,11 @@
 ---
+layout: page
 title: "About Me"
 permalink: /about/
 ---
 
 # About Me  
-<img src="assets/images/Profile.jpeg" alt="Oruma Shuaibu Ojochenemi" width="200" style="border-radius: 100%;">
+<img src="assets/images/Profile.jpeg" alt="Oruma Shuaibu Ojochenemi" width="200" style="border-radius: 50%;">
 
 Hi, I'm **Oruma Shuaibu Ojochenemi** 👋 
 
