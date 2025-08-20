@@ -1,15 +1,15 @@
 ---
-layout: default
-title: "Welcome to My Portfolio"
+layout: home
+title: "Home"
+permalink: /
 ---
 
 # Hi, I'm Oruma! 👋
 
-Welcome to my Data Analytics portfolio. Here you can find my projects, dashboards, and Power BI work.
+Welcome to my Data Analytics portfolio. Here you can find my projects, dashboards, Agile Projects and Power BI work.
 
-Check out my [projects page](Project.md) to see my work.
-## 📬 Connect with Me
-[GitHub](https://github.com/orumaa) | [LinkedIn](https://www.linkedin.com/in/shuaibu-oruma-529192138/) | [Email](mailto:orumashuaib@gmail.com) | [Instagram](https://www.instagram.com/chenemi___/?next=%2F&hl=en) | [Medium](https://medium.com/@orumashuaib)
+
+---
 
 ## 💼 Skills
 Here are some of the tools and skills I use:
@@ -18,8 +18,20 @@ Here are some of the tools and skills I use:
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
+## 📂 Featured Projects
+
+### Project 1
+An interactive Power BI dashboard providing insights into Uber ride patterns, vehicle usage, booking behaviours, and payment preferences. This dashboard helps business stakeholders understand operational performance, customer habits, and opportunities to optimise the ride-hailing service..  
+[projects page](Project.md)
+
 <a href="/https://github.com/orumaa/data-analytics-portfolio1/blob/main/Project.md/" style="text-decoration:none; background-color:#0366d6; color:white; padding:10px 20px; border-radius:5px;">Projects</a>
 <a href="/about.md/" style="text-decoration:none; background-color:#28a745; color:white; padding:10px 20px; border-radius:5px;">About Me</a>
+
+---
+
+## 📬 Connect with Me
+[GitHub](https://github.com/orumaa) | [LinkedIn](https://www.linkedin.com/in/shuaibu-oruma-529192138/) | [Email](mailto:orumashuaib@gmail.com) | [Instagram](https://www.instagram.com/chenemi___/?next=%2F&hl=en) | [Medium](https://medium.com/@orumashuaib)
+
 
 > “Data is the new oil, and analysis is the refinery.”  
 > – Oruma Shuaibu Ojochenemi
