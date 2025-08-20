@@ -1,4 +1,5 @@
 ---
+layout: page
 title: "Projects"
 permalink: /projects/
 ---
@@ -6,7 +7,7 @@ permalink: /projects/
 ## Project 1: Uber Ride Analytics Dashboard
 
 **Description:**  
-An **interactive Power BI dashboard** providing insights into Uber ride patterns, vehicle usage, booking behaviours, and payment preferences. This dashboard helps business stakeholders understand operational performance, customer habits, and opportunities to optimize the ride-hailing service.
+An **interactive Power BI dashboard** providing insights into Uber ride patterns, vehicle usage, booking behaviours, and payment preferences. This dashboard helps business stakeholders understand operational performance, customer habits, and opportunities to optimise the ride-hailing service.
 
 **Data Source & Cleaning:**  
 - Dataset included booking dates, pickup/drop-off locations, vehicle types, VTAT & CTAT, ride distance, and payment methods.  
