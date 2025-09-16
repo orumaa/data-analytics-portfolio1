@@ -20,7 +20,9 @@ Here are some of the tools and skills I use:
 
 ## 📂 Featured Projects
 
-### Project 1
+### Project 1: Uber Ride Patterns
+
+**Description:** 
 An interactive Power BI dashboard providing insights into Uber ride patterns, vehicle usage, booking behaviours, and payment preferences. This dashboard helps business stakeholders understand operational performance, customer habits, and opportunities to optimise the ride-hailing service..  
 [projects page](Project.md)
 
