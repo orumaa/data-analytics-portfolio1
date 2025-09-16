@@ -25,6 +25,14 @@ An interactive Power BI dashboard providing insights into Uber ride patterns, ve
 [projects page](Project.md)
 
 
+## Project 2: Los Angeles Crime Dashboard
+
+**Description:**  
+An **interactive Power BI dashboard** built to analyse crime trends in Los Angeles. The dashboard provides insights into crime categories, hotspots, and time-based patterns, helping stakeholders better understand public safety dynamics and resource allocation needs.
+[projects page](Project2.md)
+
+
+
 ---
 
 ## 📬 Connect with Me
