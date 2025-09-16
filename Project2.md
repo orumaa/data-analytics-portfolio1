@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Projects"
+permalink: /projects/
+---
+
 ## Project 2: Los Angeles Crime Dashboard
 
 **Description:**  
@@ -40,7 +46,7 @@ An **interactive Power BI dashboard** built to analyse crime trends in Los Angel
 [View Report](https://github.com/orumaa/data-analytics-portfolio1/blob/main/Crime%20data.pdf)  
 
 **Screenshot:**  
-![Dashboard Overview](assets/images/la-crime-dashboard.png)  
+![Dashboard Overview](assets/images/crimeData.png)  
 
 **Author:** Oruma Shuaibu Ojochenemi  
 🔗 [GitHub Portfolio](https://github.com/orumaa)  
