@@ -46,7 +46,7 @@ An **interactive Power BI dashboard** built to analyse crime trends in Los Angel
 [View Report](https://github.com/orumaa/data-analytics-portfolio1/blob/main/Crime%)  
 
 **Screenshot:**  
-![Dashboard Overview](assets/images/crimeData.png)  
+![Dashboard Overview](assets/images/CrimeData.png)  
 
 **Author:** Oruma Shuaibu Ojochenemi  
 🔗 [GitHub Portfolio](https://github.com/orumaa)  
