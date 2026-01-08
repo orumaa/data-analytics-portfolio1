@@ -6,7 +6,7 @@ permalink: /about/
 
 # About Me  
 
-<img src="/assets/images/picture.jpg" alt="Oruma's Profile Picture" width="150" style="border-radius: 20%; margin-bottom:20px;">
+<img src="/assets/images/picture.jpg" alt="profile new" width="150" style="border-radius: 20%; margin-bottom:20px;">
 
 Hi, I'm **Oruma Shuaibu Ojochenemi** 👋 
 
