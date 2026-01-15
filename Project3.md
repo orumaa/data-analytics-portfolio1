@@ -46,7 +46,7 @@ The goal is to demonstrate data storytelling, trend analysis, and dashboard desi
 ---
 
 ## 🖼 Dashboard Preview
-![Dashboard Preview](assets/image/ODUSA.png)
+![Dashboard Preview](assets/images/ODUSA.png)
 
 ---
 
@@ -76,4 +76,4 @@ The goal is to demonstrate data storytelling, trend analysis, and dashboard desi
 
 ## 👤 Author
 **Chenemi (Oruma Shuaibu Ojochenemi)**  
-Aspiring Data Analyst | Power BI | Public Sector & Health Analytics
+Aspiring Data Analyst | Power BI |
