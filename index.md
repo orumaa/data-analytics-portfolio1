@@ -23,7 +23,7 @@ Here are some of the tools and skills I use:
 ### Project 1: Uber Ride Patterns
 
 **Description:** 
-An interactive Power BI dashboard providing insights into Uber ride patterns, vehicle usage, booking behaviours, and payment preferences. This dashboard helps business stakeholders understand operational performance, customer habits, and opportunities to optimise the ride-hailing service..  
+An interactive Power BI dashboard providing insights into Uber ride patterns, vehicle usage, booking behaviours, and payment preferences. This dashboard helps business stakeholders understand operational performance, customer habits, and opportunities to optimise the ride-hailing service.  
 [projects page](https://github.com/orumaa/data-analytics-portfolio1/blob/main/Project.md)
 
 
@@ -32,6 +32,16 @@ An interactive Power BI dashboard providing insights into Uber ride patterns, ve
 **Description:**  
 An **interactive Power BI dashboard** built to analyse crime trends in Los Angeles. The dashboard provides insights into crime categories, hotspots, and time-based patterns, helping stakeholders better understand public safety dynamics and resource allocation needs.
 [projects page](Project2.md)
+
+
+
+### Project 3: Drug Overdose Death Trends (1999–Present)
+
+**Description:**  
+An interactive Power BI dashboard analysing drug overdose death trends in the United States from 1999 to the present. The project examines long-term mortality patterns, drug type contributions, and demographic disparities across age, sex, race, and ethnicity, utilising DAX-driven KPIs to support data-driven insights in public health.  
+[project page](Project 3.md)
+
+
 
 
 
