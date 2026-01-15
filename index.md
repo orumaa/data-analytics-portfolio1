@@ -35,11 +35,14 @@ An **interactive Power BI dashboard** built to analyse crime trends in Los Angel
 
 
 
-### Project 3: Drug Overdose Death Trends (1999–Present)
+### Drug Overdose Death Trends Dashboard (1999–Present)
 
-**Description:**  
-An interactive Power BI dashboard analysing drug overdose death trends in the United States from 1999 to the present. The project examines long-term mortality patterns, drug type contributions, and demographic disparities across age, sex, race, and ethnicity, utilising DAX-driven KPIs to support data-driven insights in public health.  
-[project page](Project3.md)
+An interactive Power BI dashboard analysing drug overdose death trends in the United States from 1999 to the most recent available year. The project explores long-term mortality patterns, drug type contributions, and demographic disparities across age, sex, race, and ethnicity using DAX-driven KPIs.
+
+**Tools:** Power BI, DAX, Data Modelling, Data Visualisation  
+
+[View Project on GitHub](https://github.com/orumaa/drug-overdose-dashboard)
+
 
 
 
