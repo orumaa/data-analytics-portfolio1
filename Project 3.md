@@ -1,15 +1,15 @@
 # Drug Overdose Death Trends Dashboard (1999–Present)
 
 ## 📊 Project Overview
-This project analyzes drug overdose death trends in the United States from 1999 to the most recent available year.  
-The dashboard explores long-term trends, drug type contributions, demographic disparities, and percentage changes over time.
+This project analyses drug overdose death trends in the United States from 1999 to the most recent available year.  
+The dashboard examines long-term trends, contributions by drug type, demographic disparities, and percentage changes over time.
 
 The goal is to demonstrate data storytelling, trend analysis, and dashboard design using Power BI.
 
 ---
 
 ## 🎯 Objectives
-- Analyze how overdose death rates have changed over time
+- Analyse how overdose death rates have changed over time
 - Identify which drug types contribute most to deaths
 - Examine disparities by age, sex, race, and ethnicity
 - Calculate percentage change since 1999
@@ -51,7 +51,7 @@ The goal is to demonstrate data storytelling, trend analysis, and dashboard desi
 ---
 
 ## 📂 Files in This Repository
-- `Drug_Overdose_Dashboard.pbix` – Power BI dashboard file
+- `https://github.com/orumaa/data-analytics-portfolio1/blob/main/Drug_Overdose_Dashboard.pbix` – Power BI dashboard file
 - `screenshots/` – Dashboard images
 - `dax/measures.md` – Key DAX calculations (optional)
 
@@ -71,11 +71,7 @@ The goal is to demonstrate data storytelling, trend analysis, and dashboard desi
 
 ---
 
-## 🚀 Next Improvements
-- Add state-level analysis
-- Include population-adjusted metrics
-- Automate data refresh
-- Deploy to Power BI Service for web access
+
 
 ---
 
