@@ -39,7 +39,7 @@ An **interactive Power BI dashboard** built to analyse crime trends in Los Angel
 
 **Description:**  
 An interactive Power BI dashboard analysing drug overdose death trends in the United States from 1999 to the present. The project examines long-term mortality patterns, drug type contributions, and demographic disparities across age, sex, race, and ethnicity, utilising DAX-driven KPIs to support data-driven insights in public health.  
-[project page](Project 3.md)
+[project page](Project3.md)
 
 
 
