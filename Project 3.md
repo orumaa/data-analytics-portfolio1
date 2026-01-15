@@ -46,7 +46,7 @@ The goal is to demonstrate data storytelling, trend analysis, and dashboard desi
 ---
 
 ## 🖼 Dashboard Preview
-![Dashboard Preview](images/dashboard.png)
+![Dashboard Preview](/assets/images/ODUSA.png)
 
 ---
 
