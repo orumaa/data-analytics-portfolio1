@@ -41,7 +41,7 @@ An interactive Power BI dashboard analysing drug overdose death trends in the Un
 
 **Tools:** Power BI, DAX, Data Modelling, Data Visualisation  
 
-[View Project on GitHub](https://github.com/orumaa/drug-overdose-dashboard)
+[View Project on GitHub](Project3.md)
 
 
 
