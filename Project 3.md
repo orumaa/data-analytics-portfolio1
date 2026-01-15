@@ -46,13 +46,13 @@ The goal is to demonstrate data storytelling, trend analysis, and dashboard desi
 ---
 
 ## 🖼 Dashboard Preview
-![Dashboard Preview](screenshots/dashboard.png)
+![Dashboard Preview](images/dashboard.png)
 
 ---
 
 ## 📂 Files in This Repository
 - `https://github.com/orumaa/data-analytics-portfolio1/blob/main/Drug_Overdose_Dashboard.pbix` – Power BI dashboard file
-- `screenshots/` – Dashboard images
+- `images/` – Dashboard images
 - `dax/measures.md` – Key DAX calculations (optional)
 
 ---
